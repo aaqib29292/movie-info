@@ -48,7 +48,7 @@ const Header = (props) => {
         <>
             <Row className={s.container}>
                 <Col xs={12} lg={6} className={s.logo}>
-                    <a href="/"><Image className={s.logo} src="./tmdb.svg" rounded /></a>
+                    <a href="/movie-info/"><Image className={s.logo} src="./tmdb.svg" rounded /></a>
                 </Col>
                 <Col xs={12} lg={6} className={s.input}>
                     <AsyncTypeahead
