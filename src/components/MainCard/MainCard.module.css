@@ -1,0 +1,63 @@
+* {
+    color: #00FC87;
+}
+
+.primaryColor{
+    color: #00FC87;
+}
+
+.secondaryColor {
+    color: #fafafa;
+}
+
+.oswaldText {
+    font-family: 'Oswald', sans-serif;
+}
+
+.latoText {
+    font-family: 'Lato', sans-serif
+}
+
+.maxHeight {
+    max-height: calc(100vh - 120px);
+}
+
+.poster {
+    margin: 0 auto;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.tagline {
+    font-size: 1.3em;
+    padding-bottom: .25em;
+}
+
+.overview {
+    opacity: 0.9;
+    margin-top: 10px;
+}
+
+.genresList {
+    display: block;
+    font-size: 1.4em;
+    font-family: 'Oswald', sans-serif;
+}
+
+.productionList {
+    margin-bottom: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.releaseDetails .title {
+
+}
+
+.releaseDetails .description {
+    font-size: 1.6em;
+    line-height: 1.1em;
+}

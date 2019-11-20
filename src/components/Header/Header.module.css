@@ -1,0 +1,28 @@
+.container {
+    padding: 20px 0;
+    height: 70px;
+    margin-bottom: 40px;
+}
+
+.logo {
+    height: 50px;
+}
+
+.input input {
+    background: none 0px 0px / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);
+    border-color: transparent;
+    border: none;
+    border-bottom: 3px solid #fafafa;
+    border-radius: 0;
+    color: #fafafa;
+}
+
+.input input:focus {
+    background: none 0px 0px / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);
+    border-color: transparent;
+    box-shadow: none;
+    border: none;
+    border-bottom: 3px solid #fafafa;
+    border-radius: 0;
+    color: #fafafa;
+}
